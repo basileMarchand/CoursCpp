@@ -1,0 +1,10 @@
+ipykernel
+# jupyter tools
+#
+rise>=5.6.0.dev5
+jupyter-contrib-nbextensions
+
+# output html static 
+ipypublish[sphinx]
+sphinx-rtd-theme
+jupyter_client
